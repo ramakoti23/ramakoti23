@@ -1,3 +1,6 @@
+rama
+rama
+rama
 from
 red
 test
